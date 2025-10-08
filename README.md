@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Santiago and I'm a developer, from Colombia</p>
+<p align="left">My name is Santiago and I'm a developer, from Colombia.<br>I make funny and crazy things as you may see.</p>
 
 ###
 
